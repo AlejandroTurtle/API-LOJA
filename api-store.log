@@ -1,0 +1,253 @@
+2023-10-21T01:50:12.538Z [store-api] error POST  - error is not defined
+2023-10-21T01:51:44.481Z [store-api] error POST  - Os campos Name, CPF, Phone, Email e Address são obrigatórios
+2023-10-21T01:56:58.735Z [store-api] error POST  - Os campos Name, CPF, Phone, Email e Address são obrigatórios
+2023-10-21T02:01:20.737Z [store-api] error POST  - Os campos Name, CPF, Phone, Email e Address são obrigatórios
+2023-10-24T23:40:38.412Z [store-api] error POST  - Os campos Name, CPF, Phone, Email e Address são obrigatórios
+2023-10-24T23:42:08.276Z [store-api] error POST  - Expected ',' or '}' after property value in JSON at position 19
+2023-10-24T23:42:16.324Z [store-api] error POST  - Os campos Name, CPF, Phone, Email e Address são obrigatórios
+2023-10-24T23:42:25.369Z [store-api] error POST  - Os campos Name, CPF, Phone, Email e Address são obrigatórios
+2023-10-24T23:42:26.671Z [store-api] error POST  - Os campos Name, CPF, Phone, Email e Address são obrigatórios
+2023-10-24T23:42:27.363Z [store-api] error POST  - Os campos Name, CPF, Phone, Email e Address são obrigatórios
+2023-10-24T23:46:10.887Z [store-api] error POST  - Expected double-quoted property name in JSON at position 21
+2023-10-24T23:46:22.023Z [store-api] error POST  - Os campos Name, CPF, Phone, Email e Address são obrigatórios
+2023-10-24T23:46:23.293Z [store-api] error POST  - Os campos Name, CPF, Phone, Email e Address são obrigatórios
+2023-10-24T23:46:52.707Z [store-api] error POST  - Os campos Name, CPF, Phone, Email e Address são obrigatórios
+2023-10-24T23:49:39.867Z [store-api] error POST  - loggers is not defined
+2023-10-24T23:52:34.592Z [store-api] error POST  - syntax error at or near "cliend_id"
+2023-10-24T23:52:45.785Z [store-api] error POST  - syntax error at or near "client_id"
+2023-10-24T23:54:17.329Z [store-api] error POST  - loggers is not defined
+2023-10-24T23:58:19.461Z [store-api] error POST  - loggers is not defined
+2023-10-24T23:58:40.246Z [store-api] error POST  - aaaaa
+2023-10-25T00:19:28.594Z [store-api] error GET  - clientService.getClients is not a function
+2023-10-25T00:19:28.857Z [store-api] error GET  - clientService.getClients is not a function
+2023-10-25T00:19:52.739Z [store-api] error GET  - loggers is not defined
+2023-10-25T00:21:06.358Z [store-api] info GET /client
+2023-10-25T00:28:25.980Z [store-api] info GET /client
+2023-10-25T00:28:28.870Z [store-api] info GET /client
+2023-10-25T00:29:20.466Z [store-api] info GET /client
+2023-10-25T00:36:30.533Z [store-api] info GET /client
+2023-10-25T00:36:40.068Z [store-api] error DELETE  - column "cliend_id" does not exist
+2023-10-25T00:36:48.036Z [store-api] error DELETE  - column "cliend_id" does not exist
+2023-10-25T00:37:19.918Z [store-api] info DELETE /client
+2023-10-25T00:37:22.523Z [store-api] info GET /client
+2023-10-25T00:37:25.917Z [store-api] info DELETE /client
+2023-10-25T00:37:30.449Z [store-api] info DELETE /client
+2023-10-25T00:37:33.499Z [store-api] info GET /client
+2023-10-25T00:37:37.771Z [store-api] info DELETE /client
+2023-10-25T00:37:39.467Z [store-api] info GET /client
+2023-10-25T00:56:23.093Z [store-api] error POST  - loggers is not defined
+2023-10-25T00:56:42.452Z [store-api] error PUT  - Os campos Name, Client ID CPF, Phone, Email e Address são obrigatórios
+2023-10-25T00:56:58.428Z [store-api] info PUT /client - {"client_id":6,"name":"João 2","cpf":"14769439660","phone":"31991599292","email":"joao@gmail.com","address":"Rua x 30"}
+2023-10-25T00:57:06.121Z [store-api] info PUT /client - undefined
+2023-10-25T00:57:38.579Z [store-api] error PUT  - loggers.info is not a function
+2023-10-25T00:57:50.149Z [store-api] info PUT /client - undefined
+2023-10-25T00:58:03.952Z [store-api] info POST /client - {"name":"João","cpf":"14769439660","phone":"31991599292","email":"joao@gmail.com","address":"Rua x 30"}
+2023-10-25T00:58:09.765Z [store-api] info GET /client
+2023-10-25T00:58:13.350Z [store-api] info POST /client - {"name":"João","cpf":"14769439660","phone":"31991599292","email":"joao@gmail.com","address":"Rua x 30"}
+2023-10-25T00:58:16.888Z [store-api] info GET /client
+2023-10-25T01:11:55.976Z [store-api] info POST /supplier - {"name":"FORNECEDOR ELETRONICO","cnpj":"132113455431","phone":"319210293","email":"fornecedoreletronico@gmail.com","address":"Rua z 323"}
+2023-10-25T01:13:11.312Z [store-api] error PUT  - Os campos Name, Client ID CPF, Phone, Email e Address são obrigatórios
+2023-10-25T01:13:31.610Z [store-api] error PUT  - Os campos Name, Supplier ID CNPJ, Phone, Email e Address são obrigatórios
+2023-10-25T01:13:55.900Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"FORNECEDOR ELETRONICO ltda","cnpj":"132113455431","phone":"319210293","email":"fornecedoreletronico@gmail.com","address":"Rua z 323"}
+2023-10-25T01:14:25.093Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"FORNECEDOR ELETRONICO LTDA","cnpj":"132113455431","phone":"319210293","email":"fornecedoreletronico@gmail.com","address":"Rua z 323"}
+2023-10-25T01:14:47.478Z [store-api] info GET /client
+2023-10-25T01:14:54.480Z [store-api] info GET /supplier
+2023-10-25T01:15:12.569Z [store-api] info GET /client
+2023-10-25T01:15:21.945Z [store-api] info GET /client
+2023-10-25T01:15:25.937Z [store-api] info GET /supplier
+2023-10-25T01:15:32.464Z [store-api] info DELETE /supplier
+2023-10-25T01:15:37.576Z [store-api] info GET /supplier
+2023-10-25T01:15:40.353Z [store-api] info DELETE /supplier
+2023-10-25T01:15:42.636Z [store-api] info GET /supplier
+2023-10-25T01:15:47.512Z [store-api] info POST /supplier - {"name":"FORNECEDOR ELETRONICO","cnpj":"132113455431","phone":"319210293","email":"fornecedoreletronico@gmail.com","address":"Rua z 323"}
+2023-10-25T01:15:48.074Z [store-api] info POST /supplier - {"name":"FORNECEDOR ELETRONICO","cnpj":"132113455431","phone":"319210293","email":"fornecedoreletronico@gmail.com","address":"Rua z 323"}
+2023-10-25T01:15:48.631Z [store-api] info POST /supplier - {"name":"FORNECEDOR ELETRONICO","cnpj":"132113455431","phone":"319210293","email":"fornecedoreletronico@gmail.com","address":"Rua z 323"}
+2023-10-25T01:15:51.704Z [store-api] info DELETE /supplier
+2023-10-25T01:16:02.499Z [store-api] info DELETE /supplier
+2023-10-27T00:14:18.478Z [store-api] info POST /product - {"name":"Notebook Acer","description":"Notebook com rtx 1060","value":"3250.20","stock":"5","supplier_id":"2"}
+2023-10-27T00:16:17.569Z [store-api] error PUT  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-27T00:17:06.546Z [store-api] error PUT  - Os campos Product_id, Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-27T00:17:24.979Z [store-api] error PUT  - Expected ',' or '}' after property value in JSON at position 22
+2023-10-27T00:17:34.601Z [store-api] error PUT  - invalid input syntax for type numeric: "3250,20"
+2023-10-27T00:18:17.838Z [store-api] info PUT /product - {"product_id":1,"supplier_id":2,"name":"Notebook Acer","description":"Notebook com rtx 1060","value":"3250.2","stock":5}
+2023-10-27T00:18:35.446Z [store-api] info PUT /product - {"product_id":1,"supplier_id":2,"name":"Notebook Acer","description":"Notebook com rtx 1060","value":"3200","stock":5}
+2023-10-27T00:18:48.141Z [store-api] info GET /product
+2023-10-27T00:18:55.509Z [store-api] info PUT /product - {"product_id":1,"supplier_id":2,"name":"Notebook Acer","description":"Notebook com rtx 1060","value":"3200.5","stock":5}
+2023-10-27T00:18:59.704Z [store-api] info GET /product
+2023-10-27T00:19:58.215Z [store-api] info PUT /product - {"product_id":1,"supplier_id":2,"name":"Notebook Acer","description":"Notebook com rtx 1060","value":"3200.5","stock":5}
+2023-10-27T00:19:58.328Z [store-api] info PUT /product - {"product_id":1,"supplier_id":2,"name":"Notebook Acer","description":"Notebook com rtx 1060","value":"3200.5","stock":5}
+2023-10-27T00:19:58.405Z [store-api] info PUT /product - {"product_id":1,"supplier_id":2,"name":"Notebook Acer","description":"Notebook com rtx 1060","value":"3200.5","stock":5}
+2023-10-27T00:22:23.059Z [store-api] info GET /product
+2023-10-27T00:22:53.189Z [store-api] info POST /product - {"name":"Notebook Dell","description":"Notebook com rtx 1060","value":3000,"stock":10,"supplier_id":2}
+2023-10-27T00:22:55.969Z [store-api] info GET /product
+2023-10-27T00:23:01.142Z [store-api] info GET /product
+2023-10-27T00:23:46.887Z [store-api] error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2023-10-27T00:35:56.416Z [store-api] error POST  - O supplier_id informado não existe.
+2023-10-27T00:42:01.240Z [store-api] error PUT  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2023-10-27T00:42:12.586Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-27T00:53:37.753Z [store-api] error POST  - Expected double-quoted property name in JSON at position 76
+2023-10-27T00:54:20.697Z [store-api] error POST  - Expected double-quoted property name in JSON at position 76
+2023-10-27T00:54:38.378Z [store-api] error POST  - Expected double-quoted property name in JSON at position 76
+2023-10-27T00:55:03.400Z [store-api] error POST  - date/time field value out of range: "26/10/2023"
+2023-10-27T00:55:21.560Z [store-api] info POST /sale - {"value":3500,"date":"10/26/2023","client_id":1,"product_id":1}
+2023-10-27T00:55:31.436Z [store-api] info GET /sale
+2023-10-27T00:55:35.353Z [store-api] info GET /sale
+2023-10-27T00:55:49.326Z [store-api] info GET /product
+2023-10-27T00:56:00.879Z [store-api] error PUT  - Os campos Date, Date, Client_id e Product_id são obrigatórios
+2023-10-27T00:57:05.074Z [store-api] info PUT /sale - {"sale_id":1,"client_id":1,"product_id":1,"value":"3200.5","date":"2023-10-26T03:00:00.000Z"}
+2023-10-27T00:57:13.936Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-27T00:57:18.603Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-27T00:57:30.962Z [store-api] info GET /product
+2023-10-27T00:57:58.687Z [store-api] error POST  - insert or update on table "sales" violates foreign key constraint "fk_clients"
+2023-10-27T00:58:31.657Z [store-api] info GET /client
+2023-10-27T00:58:46.385Z [store-api] info POST /sale - {"value":3000,"date":"10/26/2023","client_id":6,"product_id":2}
+2023-10-27T00:58:49.035Z [store-api] info GET /sale
+2023-10-27T00:58:58.188Z [store-api] info GET /sale
+2023-10-27T00:59:00.984Z [store-api] info GET /sale
+2023-10-27T00:59:05.504Z [store-api] info GET /sale
+2023-10-27T01:05:45.300Z [store-api] error POST  - O product_id informado não existe.
+2023-10-27T01:05:56.499Z [store-api] error POST  - O client_id informado não existe.
+2023-10-27T01:12:31.114Z [store-api] info GET /product
+2023-10-27T01:20:10.306Z [store-api] info GET /product
+2023-10-27T01:21:20.806Z [store-api] error POST  - O client_id informado não existe.
+2023-10-27T01:21:30.544Z [store-api] error POST  - O client_id informado não existe.
+2023-10-27T01:21:37.678Z [store-api] info GET /sale
+2023-10-27T01:21:52.642Z [store-api] info POST /sale - {"value":3000,"date":"10/26/2023","client_id":8,"product_id":1}
+2023-10-27T01:22:10.241Z [store-api] info GET /product
+2023-10-27T01:23:13.746Z [store-api] info POST /client - {"name":"pedro","cpf":"14769439660","phone":"31991599292","email":"joao@gmail.com","address":"Rua x 30"}
+2023-10-27T01:23:22.552Z [store-api] info POST /sale - {"value":3000,"date":"10/26/2023","client_id":9,"product_id":1}
+2023-10-27T01:23:25.979Z [store-api] info GET /product
+2023-10-27T01:24:37.014Z [store-api] error POST  - Bad control character in string literal in JSON at position 59
+2023-10-27T01:24:45.070Z [store-api] error POST  - O supplier_id informado não existe.
+2023-10-27T01:24:51.861Z [store-api] info GET /supplier
+2023-10-27T01:24:57.997Z [store-api] info POST /product - {"name":"Mouse Dell","description":"Mouse Bluethooth","value":50,"stock":2,"supplier_id":2}
+2023-10-27T01:25:09.096Z [store-api] info GET /product
+2023-10-27T01:25:36.495Z [store-api] info POST /sale - {"value":50,"date":"10/26/2023","client_id":9,"product_id":4}
+2023-10-27T01:25:40.326Z [store-api] info GET /product
+2023-10-27T01:25:44.176Z [store-api] info POST /sale - {"value":50,"date":"10/26/2023","client_id":9,"product_id":4}
+2023-10-27T01:25:47.867Z [store-api] info GET /product
+2023-10-27T01:25:52.116Z [store-api] error POST  - O produto informado não possui estoque.
+2023-10-31T01:03:16.923Z [store-api] info GET /product
+2023-10-31T01:03:17.103Z [store-api] info GET /product
+2023-10-31T01:04:12.600Z [store-api] info POST /sale - {"value":3200.5,"date":"10/30/2023","client_id":9,"product_id":1}
+2023-10-31T01:04:17.506Z [store-api] info GET /product
+2023-10-31T01:04:26.549Z [store-api] info POST /sale - {"value":3200.5,"date":"10/30/2023","client_id":9,"product_id":1}
+2023-10-31T01:04:31.842Z [store-api] info GET /product
+2023-10-31T01:11:17.856Z [store-api] info GET /sale
+2023-10-31T01:11:29.702Z [store-api] error DELETE  - O id da sale informado não existe.
+2023-10-31T01:11:38.820Z [store-api] error DELETE  - product is not defined
+2023-10-31T01:11:56.910Z [store-api] info GET /product
+2023-10-31T01:12:19.299Z [store-api] error DELETE  - O id da sale informado não existe.
+2023-10-31T01:12:24.758Z [store-api] error DELETE  - product is not defined
+2023-10-31T01:13:07.971Z [store-api] info GET /sale
+2023-10-31T01:13:17.591Z [store-api] info GET /product
+2023-10-31T01:13:23.248Z [store-api] info GET /product
+2023-10-31T01:13:33.445Z [store-api] info DELETE /sale
+2023-10-31T01:13:37.197Z [store-api] info GET /product
+2023-10-31T01:17:53.714Z [store-api] info GET /product
+2023-10-31T01:22:06.066Z [store-api] info GET /sale
+2023-10-31T01:29:06.956Z [store-api] info GET /sale
+2023-10-31T01:29:20.590Z [store-api] info GET /sale
+2023-10-31T01:29:29.984Z [store-api] info GET /sale
+2023-10-31T01:29:35.894Z [store-api] info GET /sale
+2023-10-31T22:39:19.794Z [store-api] info GET /client
+2023-10-31T22:39:55.131Z [store-api] info GET /client
+2023-10-31T22:39:58.041Z [store-api] info GET /client
+2023-10-31T22:40:09.644Z [store-api] error POST  - notNull Violation: clients.clientId cannot be null
+2023-10-31T22:41:14.286Z [store-api] error POST  - null value in column "client_id" of relation "clients" violates not-null constraint
+2023-10-31T22:42:14.119Z [store-api] info POST /client - {"name":"joaozinho","cpf":"14769439660","phone":"31991599292","email":"joao@gmail.com","address":"Rua x 30"}
+2023-10-31T22:42:38.404Z [store-api] error PUT  - Os campos Name, Client ID CPF, Phone, Email e Address são obrigatórios
+2023-10-31T22:43:12.225Z [store-api] info PUT /client - null
+2023-10-31T22:43:26.500Z [store-api] info GET /client
+2023-10-31T22:43:38.557Z [store-api] info PUT /client - {"clientId":10,"name":"João 2","cpf":"14769439660","phone":"31991599292","email":"joao@gmail.com","address":"Rua x 30"}
+2023-10-31T22:51:27.785Z [store-api] info GET /client
+2023-10-31T22:51:40.438Z [store-api] info DELETE /client
+2023-10-31T22:51:42.778Z [store-api] info GET /client
+2023-10-31T22:51:48.350Z [store-api] info DELETE /client
+2023-10-31T22:51:50.656Z [store-api] info GET /client
+2023-10-31T23:11:48.497Z [store-api] info GET /supplier
+2023-10-31T23:26:16.020Z [store-api] error GET  - connect is not a function
+2023-10-31T23:26:24.509Z [store-api] info GET /product
+2023-10-31T23:29:03.739Z [store-api] info GET /product
+2023-10-31T23:29:17.112Z [store-api] error PUT  - Os campos Product_id, Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:29:37.362Z [store-api] error PUT  - Os campos Product_id, Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:30:01.722Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:30:09.027Z [store-api] info GET /supplier
+2023-10-31T23:30:13.876Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:30:21.177Z [store-api] info GET /supplier
+2023-10-31T23:30:34.636Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:30:35.279Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:30:45.328Z [store-api] info GET /supplier
+2023-10-31T23:30:45.924Z [store-api] info GET /supplier
+2023-10-31T23:30:56.105Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:30:56.890Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:30:57.368Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:31:47.963Z [store-api] info GET /supplier
+2023-10-31T23:31:51.711Z [store-api] info GET /supplier
+2023-10-31T23:31:58.896Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:31:59.555Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:32:45.185Z [store-api] info GET /product
+2023-10-31T23:32:54.936Z [store-api] error DELETE  - update or delete on table "products" violates foreign key constraint "fk_products" on table "sales"
+2023-10-31T23:35:54.607Z [store-api] error GET  - connect is not a function
+2023-10-31T23:36:00.803Z [store-api] error GET  - connect is not a function
+2023-10-31T23:36:01.550Z [store-api] error GET  - connect is not a function
+2023-10-31T23:36:24.762Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:36:34.263Z [store-api] error PUT  - Os campos Name, Supplier ID CNPJ, Phone, Email e Address são obrigatórios
+2023-10-31T23:36:56.110Z [store-api] error PUT  - Os campos Name, Supplier ID CNPJ, Phone, Email e Address são obrigatórios
+2023-10-31T23:36:59.198Z [store-api] info GET /supplier
+2023-10-31T23:37:09.979Z [store-api] info PUT /supplier - {"supplierId":2,"name":"FORNECEDOR ELETRONICO","cnpj":"132113455431","phone":"319210293","email":"fornecedoreletronico@gmail.com","address":"Rua z 32322"}
+2023-10-31T23:37:13.359Z [store-api] info GET /supplier
+2023-10-31T23:37:20.799Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:24.328Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:25.101Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:25.693Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:26.094Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:26.354Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:26.555Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:26.744Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:26.790Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:26.991Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:27.184Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:27.231Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:37:27.435Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:38:30.934Z [store-api] error PUT  - Os campos Product_id, Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:38:40.041Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:38:55.764Z [store-api] error DELETE  - update or delete on table "suppliers" violates foreign key constraint "fk_suppliers" on table "products"
+2023-10-31T23:39:01.648Z [store-api] error DELETE  - connect is not a function
+2023-10-31T23:40:55.742Z [store-api] info GET /supplier
+2023-10-31T23:41:01.536Z [store-api] info GET /supplier
+2023-10-31T23:41:19.417Z [store-api] info PUT /supplier - {"supplierId":2,"name":"FORNECEDOR DE NOTEBOOK","cnpj":"132113455431","phone":"319210293","email":"fornecedoreletronico@gmail.com","address":"Rua z 32322"}
+2023-10-31T23:41:57.560Z [store-api] error POST  - notNull Violation: suppliers.supplierId cannot be null
+2023-10-31T23:42:32.670Z [store-api] info POST /supplier - {"name":"FORNECEDOR ELETRONICO","cnpj":"132113455431","phone":"319210293","email":"fornecedoreletronico@gmail.com","address":"Rua z 323"}
+2023-10-31T23:42:38.685Z [store-api] info DELETE /supplier
+2023-10-31T23:42:41.791Z [store-api] info GET /supplier
+2023-10-31T23:44:16.528Z [store-api] info GET /product
+2023-10-31T23:44:24.587Z [store-api] info GET /product
+2023-10-31T23:45:01.130Z [store-api] error DELETE  - connect is not a function
+2023-10-31T23:47:04.329Z [store-api] error POST  - null value in column "supplier_id" of relation "products" violates not-null constraint
+2023-10-31T23:47:22.498Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:48:20.312Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:48:53.001Z [store-api] error POST  - Unexpected non-whitespace character after JSON at position 128
+2023-10-31T23:49:37.500Z [store-api] error POST  - Unexpected non-whitespace character after JSON at position 126
+2023-10-31T23:49:43.310Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:50:13.323Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:50:13.572Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:50:13.789Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:50:14.028Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:50:14.087Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:50:14.282Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:50:14.478Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:50:31.753Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:50:36.660Z [store-api] info GET /supplier
+2023-10-31T23:50:54.857Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:51:00.357Z [store-api] error PUT  - O supplier_id informado não existe.
+2023-10-31T23:51:46.474Z [store-api] info PUT /product - {"productId":1,"name":"Notebook Acer","description":"Notebook com rtx 1060","value":"3200.5","stock":10,"supplierId":2}
+2023-10-31T23:54:00.879Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:54:15.421Z [store-api] info GET /supplier
+2023-10-31T23:54:22.971Z [store-api] error DELETE  - update or delete on table "suppliers" violates foreign key constraint "fk_suppliers" on table "products"
+2023-10-31T23:54:32.349Z [store-api] info GET /product
+2023-10-31T23:54:37.229Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:55:53.018Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:55:53.970Z [store-api] error POST  - Os campos Name, Description, value, stock e Supplier_id são obrigatórios
+2023-10-31T23:57:54.366Z [store-api] info POST /product - {"name":"Notebook lenovo","description":"Notebook com rtx 2060","value":3000,"stock":10,"supplierId":2}
+2023-10-31T23:59:16.820Z [store-api] info PUT /product - {"productId":1,"name":"Notebook Acer","description":"Notebook com rtx 1060","value":"3200.5","stock":10,"supplierId":2}
